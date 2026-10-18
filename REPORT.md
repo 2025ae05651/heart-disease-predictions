@@ -1,8 +1,8 @@
 # MLOps Assignment 1: Heart Disease Prediction
 
 ## Student Information
-- **Name:** Amit Kumar
-- **Student ID:** 2025AE05651
+- **Name:** Anirban Bose
+- **Student ID:** 2025AE05717
 - **Course:** AIMLCZG523 - Machine Learning Operations
 - **Date:** 15-10-2026
 
